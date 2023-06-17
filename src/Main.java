@@ -11,6 +11,7 @@ public class Main {
         task8();
         task9();
         task10();
+        System.out.println(" Завершение Printout  ДЗ 6");
     }
 
     public static void task1() {
